@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
 
 class Button extends StatelessWidget {
+  //declarando as constantes das cores
   static const DARK = Color.fromRGBO(82, 82, 82, 1);
   static const DEFAULT = Color.fromRGBO(112, 112, 112, 1);
   static const OPERATION = Color.fromRGBO(250, 158, 13, 1);

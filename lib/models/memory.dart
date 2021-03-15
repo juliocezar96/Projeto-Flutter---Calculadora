@@ -13,6 +13,7 @@ class Memory {
     }
   }
 
+  //Codigo para auto limpar
   _allClear() {
     _value = '0';
   }

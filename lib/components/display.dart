@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 
 class Display extends StatelessWidget {
+  //declração para receber um text
   final String text;
 
+  //o display espera receber um text
   Display(this.text);
 
   @override
