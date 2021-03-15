@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
 
 class Button extends StatelessWidget {
   //declarando as constantes das cores
