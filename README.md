@@ -20,6 +20,13 @@ A few resources to get you started if this is your first Flutter project
 100% functional calculator
 
 
+
+<img src="https://user-images.githubusercontent.com/55766053/111242253-92acd900-85dd-11eb-8e58-9e45a9c69994.jpeg" width="150">
+
+
+
+
+
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
